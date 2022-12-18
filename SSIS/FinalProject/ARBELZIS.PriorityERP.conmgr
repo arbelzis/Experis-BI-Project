@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ARBELZIS.PriorityERP"
+  DTS:DTSID="{99CFF268-F601-4141-A887-2A8D2AE6CC88}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ARBELZIS;Initial Catalog=PriorityERP;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-FinalProject-{99CFF268-F601-4141-A887-2A8D2AE6CC88}ARBELZIS.PriorityERP;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
